@@ -1,0 +1,188 @@
+.resume_content_header .header_name {
+	float: left;
+	width: 450px;
+	text-align: left;
+}
+.resume_content_header .header_date {
+	float: right;
+	width: 120px;
+	text-align: right;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 12px;
+}
+.resume_content {
+}
+
+
+
+
+.resume_list {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 12px;
+	color: #000;
+	width: 580px;
+	text-align: justify;
+	padding-left: 80px;
+	padding-top: 0px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+
+
+#resume_id {
+	text-align: right;
+	padding: 10px;
+	width: 650px;
+}
+#resume_id a {
+	font: "Bradley Hand ITC", "Brush Script Std", Mistral, serif;
+	font-weight: bold;
+}
+
+#resume_id h1 {
+	font-size: 12px;
+	font-family: "Brush Script Std", Mistral, serif;
+	font-style: normal;
+}
+
+#gaming {
+	padding: 10px;
+}
+#gaming p {
+	text-align: left;
+	padding-top: 27px;
+}
+
+
+
+
+
+.video_content {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 12px;
+	color: #000;
+	width: 600px;
+	text-align: justify;
+	padding-left: 60px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 0px;
+}
+.video_header {
+}
+.video_content_header {
+	width: 650px;
+	padding-left: 10px;
+	padding-top: 20px;
+	padding-right: 10px;
+	padding-bottom: 20px;
+}
+.video_content_header .header_name {
+	float: left;
+	width: 450px;
+	text-align: left;
+}
+.video_name h3 {
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color: #000;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000;
+	float: left;
+    width: 650px;
+}
+
+
+
+.resume_header {
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color: #000;
+	text-align: left;
+	padding: 10px;
+	padding-top: 20px;
+	padding-bottom: 0px;
+    width: 650px;
+}
+.resume_header h2.skills{
+	width: 2600px;
+	height: 20px;
+	margin: 0 0 0 -2000px;
+	text-align: left;
+	background-image: url(images/resume_h2_skills.png);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+.resume_header h2.highlights{
+	width: 2600px;
+	height: 20px;
+	margin: 0 0 0 -2000px;
+	text-align: left;
+	background-image: url(images/resume_h2_highlights.png);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+.resume_header h2.projects{
+	width: 2600px;
+	height: 20px;
+	margin: 0 0 0 -2000px;
+	text-align: left;
+	background-image: url(images/resume_h2_projects.png);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+.resume_header h2.experience{
+	width: 2600px;
+	height: 20px;
+	margin: 0 0 0 -2000px;
+	text-align: left;
+	background-image: url(images/resume_h2_experience.png);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+.resume_header h2.volunteering{
+	width: 2600px;
+	height: 20px;
+	margin: 0 0 0 -2000px;
+	text-align: left;
+	background-image: url(images/resume_h2_volunteering.png);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+.resume_header h2.education{
+	width: 2600px;
+	height: 20px;
+	margin: 0 0 0 -2000px;
+	text-align: left;
+	background-image: url(images/resume_h2_education.png);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+.g {float: left}
+#video {
+	padding: 10px;
+}
+#resume_id h1.adrianestergaard {
+	width: 2662px;
+	height: 54px;
+	margin: 0 0 0 -2000px;
+	text-align: left;
+	background-image: url(images/resume_h1_adrianestergaard.png);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,247 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* spacing reset */
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td {
+	margin: 0;
+	padding: 0;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+fieldset,img {
+	border: 0;
+	padding-top: 0px;
+}
+address,caption,cite,code,dfn,em,strong,th,var {
+	font-style: normal;
+	font-weight: normal;
+}
+ol,ul {
+	list-style: none;
+}
+caption,th {
+	text-align: left;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-size: 100%;
+	font-weight: normal;
+}
+q: before,q: after {
+	content: '';
+}
+abbr,acronym { border: 0;
+}
+
+/* end spacing reset */
+
+ul {list-style-type: circle;}
+
+#topspacer {
+	margin-right: 10px;
+	margin-left: 10px;
+	padding-top: 10px;
+	height: 100px;
+	width: 1060px;
+}
+
+#topspacer img { 
+	float: right;
+}
+
+#header_id {
+	text-align: right;
+	padding: 10px;
+	width: 820px;
+}
+
+#header_id h1.adrianestergaard {
+	width: 830px;
+	height: 54px;
+	text-align: right;
+	background-image: url(/images/resume_h1_adrianestergaard_big.png);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+.image_header {
+	width: 670px;
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color: #050505;
+}
+
+.skills {
+	background-image: url(/images/resume_h2_skills.png);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+	height: 24px;
+	padding: 10px;
+	padding-top: 15px;
+	padding-bottom: 0px;
+}
+
+.projects {
+	background-image: url(/images/resume_h2_projects.png);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+	height: 24px;
+	padding: 10px;
+	padding-top: 15px;
+	padding-bottom: 0px;
+}
+
+.experience {
+	background-image: url(/images/resume_h2_experience.png);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+	height: 24px;
+	padding: 10px;
+	padding-top: 15px;
+	padding-bottom: 0px;
+}
+
+.volunteering {
+	background-image: url(/images/resume_h2_volunteering.png);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+	height: 24px;
+	padding: 10px;
+	padding-top: 15px;
+	padding-bottom: 0px;
+}
+
+.education {
+	background-image: url(/images/resume_h2_education.png);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+	height: 24px;
+	padding: 10px;
+	padding-top: 15px;
+	padding-bottom: 0px;
+}
+
+.resume_content_header {
+	width: 650px;
+	padding-left: 10px;
+	padding-top: 20px;
+	padding-right: 10px;
+	padding-bottom: 20px;
+}
+
+.header_name {
+	float: left;
+	width: 450px;
+	text-align: left;
+}
+.header_date {
+	float: right;
+	width: 120px;
+	text-align: right;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 12px;
+}
+
+#nav {
+	margin-right: 10px;
+	margin-left: 10px;
+	padding-top: 0px;
+	width: 100px;
+	float: left;
+}
+
+#footer {
+	text-align: right;
+	padding: 10px;
+	height: 20px;
+	width: 880px;
+	font-size: 10px;
+	font-family: "MS Serif", "New York", serif;
+	float: right;
+}
+#main {
+	float: right;
+	width: 700px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 60px;
+}
+#breadcrumb {
+	float: left;
+	padding: 0;
+}
+#main_basic {
+	padding-top: 70px;
+}
+#container {
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+.text_header {
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color: #050505;
+	text-align: left;
+	padding: 10px;
+	padding-top: 20px;
+	padding-bottom: 0px;
+	width: 650px;
+}
+.text_content {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 12px;
+	color: #252525;
+	width: 600px;
+	text-align: left;
+	padding-left: 60px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 0px;
+}
+.text_content a {
+	color: #000000;
+	text-decoration: none;
+}
+
+.text_list {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 12px;
+	color: #252525;
+	width: 580px;
+	text-align: justify;
+	padding-left: 80px;
+	padding-top: 0px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+.video_box {
+	margin-left: 100px;
+	margin-top: 10px;
+}
+
+#nav img {
+	padding-top: 12px;
+}
+
+.header_name h3 {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000;
+}
+.framed img {
+	float: right;
+	padding: 10px;
+}
+
+#container #main .resume_list table tr td ul li a {
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 900;
+	list-style-type: disc;
+	vertical-align: middle;
+}
